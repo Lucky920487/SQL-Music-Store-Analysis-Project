@@ -1,7 +1,7 @@
-🎵 Music Playlist Analysis with SQL
+#🎵 Music Playlist Analysis with SQL
 This beginner-friendly project teaches how to analyze a music playlist database using SQL.
 
-📌 About the Project
+#📌 About the Project
 Using SQL queries, we explore a music store's playlist database to:
 
 Understand business trends
