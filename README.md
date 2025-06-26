@@ -56,7 +56,8 @@ This project was an excellent hands-on experience to understand how SQL works in
 
 To understand the database relationships, I used the following schema image:
 
-![Music Store Database Schema](./eecc7802-b8f2-4422-985d-2f2df265781d.png)
+![Music Store Database Schema](![image](https://github.com/user-attachments/assets/bc3db56c-69c9-493f-9402-c943214f7fef)
+)
 
 > This ER diagram helped me visualize the relationships between customers, employees, genres, tracks, invoices, and playlists.
 
@@ -90,5 +91,5 @@ This project was built by following a SQL tutorial available on YouTube.
 PgAdmin4
 Schema- Music Store Database
 MusicDatabaseSchema
-![image](https://github.com/user-attachments/assets/0fdf4205-e7da-45e2-a52c-caeac044e3e3)
+
 
