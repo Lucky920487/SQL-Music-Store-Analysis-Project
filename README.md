@@ -56,8 +56,8 @@ This project was an excellent hands-on experience to understand how SQL works in
 
 To understand the database relationships, I used the following schema image:
 
-![Music Store Database Schema](![image](https://github.com/user-attachments/assets/e17bdfcf-3cae-4165-bfcb-6c64bd857291)
-)
+!![image](https://github.com/user-attachments/assets/eeaa04b5-faef-4090-ba11-bd6b14319dd4)
+
 
 
 > This ER diagram helped me visualize the relationships between customers, employees, genres, tracks, invoices, and playlists.
